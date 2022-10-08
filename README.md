@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (react, tailwind, typescript)
+- 🌱 I'm currently learning about (node, react, tailwind, typescript)
 
 <br>
 
