@@ -28,3 +28,5 @@
   <a href = "mailto:joaovscamargo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+Meu portfólio: https://funderburker1.github.io/
+
