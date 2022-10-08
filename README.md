@@ -27,6 +27,7 @@
   <a href="https://www.facebook.com/joaovitor.camargo.5" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovscamargo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://funderburker1.github.io/">Meu portfólio</a>
+  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 </div>
 
 
