@@ -1,9 +1,8 @@
-### Hello I'm Calebe Souza Guimarães
+### Hello I'm João Vitor Camargo
 <hr>
 
 - 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
-- 😄 Pronouns: he/his
+- 🌱 I'm currently learning about (react, tailwind, typescript)
 
 <br>
 
